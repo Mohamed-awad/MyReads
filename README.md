@@ -31,7 +31,7 @@ this is the first project of react Nanodegree on Udacity
 ### photo of site
 
 ###### main page (page of shelves)
-![alt text]()
+![alt text](https://github.com/Mohamed-awad/MyReads/blob/master/public/images/main_page.png)
 
 ###### search page
-![alt text]()
+![alt text](https://github.com/Mohamed-awad/MyReads/blob/master/public/images/search_page.png)
