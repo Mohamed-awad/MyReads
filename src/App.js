@@ -100,6 +100,11 @@ class BooksApp extends React.Component {
   };
 
   renderBook = (book) => {
+    this.state.allBooks.map((currentBook)=> {
+      if(currentBook.id === book.id) {
+        book.shelf = currentBook.shelf;
+      }
+    });
     return (
         <div className="book">
           <div className="book-top">
